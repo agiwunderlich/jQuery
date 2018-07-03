@@ -1,0 +1,10 @@
+.scale-half{
+
+    transform: scale(0.5);
+    transform-origin: bottom;
+
+}
+
+.wrapper-image img{
+    transition: all linear 0.5s;
+}
